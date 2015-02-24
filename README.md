@@ -1,7 +1,7 @@
 # Arduino-Boilerplate
 ***A project by Sam Daitzman***
 
-
+This is in development and has known issues. Don't use it yet if you want something stable!
 
 Arduino-boilerplate is a template for your next Arduino-based project. It works with the Arduino app, [Stino](https://github.com/Robot-Will/Stino), or your favorite text editor. Just follow these instructions to get started:
 
